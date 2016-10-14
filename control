@@ -1,0 +1,9 @@
+Package: com.sky.iostest
+Name: iOSTest
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Making from quange
+Maintainer: sky
+Author: sky
+Section: Tweaks
